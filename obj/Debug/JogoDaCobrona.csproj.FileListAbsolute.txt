@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\bin\Debug\JogoDaCobrona.exe.config
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\bin\Debug\JogoDaCobrona.exe
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\bin\Debug\JogoDaCobrona.pdb
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.Form1.resources
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.Properties.Resources.resources
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.exe
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.pdb
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\bin\Debug\JogoDaCobrona.exe.manifest
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\bin\Debug\JogoDaCobrona.application
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.exe.manifest
+C:\Users\lucas\source\repos\JogoDaCobrona\JogoDaCobrona\obj\Debug\JogoDaCobrona.application
